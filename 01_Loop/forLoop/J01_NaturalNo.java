@@ -1,14 +1,12 @@
-package Loop.forLoop;
-
 import java.util.Scanner;
 
-public class J07_OddNumber {
+public class J01_NaturalNo {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.println("Enter the n:");
+        System.out.println("Enter the number");
         int n = s.nextInt();
-        for (int i = 1; i <= n; i = i + 2) {
-            System.out.println(i);
+        for (int i = 1; i <= n; i++) {
+            System.out.println(i + "");
         }
         s.close();
     }

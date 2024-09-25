@@ -1,4 +1,3 @@
-package Loop.forLoop;
 
 public class J03_sumOfArrElements {
     public static void main(String[] args) {

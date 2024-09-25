@@ -1,4 +1,3 @@
-package Loop.SpecialForLoop;
 
 public class J01_arrayelementPrint {
     public static void main(String[] args) {

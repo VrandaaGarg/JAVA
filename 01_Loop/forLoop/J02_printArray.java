@@ -1,4 +1,3 @@
-package Loop.forLoop;
 
 public class J02_printArray {
     public static void main(String[] args) {
