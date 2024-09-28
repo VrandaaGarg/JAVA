@@ -1,0 +1,6 @@
+# Ignore all class files
+*.class
+
+.vscode
+# Ignore VSCode settings
+.vscode/settings.json

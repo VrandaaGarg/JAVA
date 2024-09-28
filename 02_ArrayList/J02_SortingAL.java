@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class J02_SortingAL {
+public class J02_sortingAL {
     public static void main(String[] args) {
 
         ArrayList<Integer> Num = new ArrayList<Integer>();
